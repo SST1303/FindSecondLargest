@@ -125,11 +125,4 @@ This project is open source and available under the [MIT License](LICENSE).
 - Inspired by common programming interview questions
 - Designed for educational purposes and practical use
 
-## 📞 Contact
-
-- **Project Link**: [https://github.com/yourusername/second-largest-number](https://github.com/yourusername/second-largest-number)
-- **Issues**: [https://github.com/yourusername/second-largest-number/issues](https://github.com/yourusername/second-largest-number/issues)
-
----
-
 ⭐ **Star this repository if you find it helpful!**
